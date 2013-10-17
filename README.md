@@ -1,3 +1,3 @@
 ## DumbNamic Web Framework
 
-A dynamic(ish) PHP web framework
+The not-so-dynamic-static-file driven web framework

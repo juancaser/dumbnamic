@@ -7,5 +7,4 @@ if(!defined('ABSPATH')) exit(/* Silence is golden*/);
  * @author The Juan Who Code <caserjan@gmail.com>
  * @package views
  */
-?>
-Home
+?>404

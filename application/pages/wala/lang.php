@@ -8,4 +8,4 @@ if(!defined('ABSPATH')) exit(/* Silence is golden*/);
  * @package views
  */
 ?>
-Home
+Lang
